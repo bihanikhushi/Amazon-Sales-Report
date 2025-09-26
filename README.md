@@ -6,7 +6,7 @@ This project analyzes Amazon sales data to provide actionable insights on sales 
 ---
 
 ## Author
-**Khushi** – [LinkedIn](https://www.linkedin.com/in/khushi-bihani-78a877315)
+**Khushi Bihani** – [LinkedIn](https://www.linkedin.com/in/khushi-bihani-78a877315)
 
 ---
 

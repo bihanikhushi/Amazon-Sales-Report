@@ -1,4 +1,4 @@
-# Amazon Sales Report Dashboard
+# Amazon Sales Report
 **Internship Project | Amazon Sales Data Analysis**  
 
 This project analyzes Amazon sales data to provide actionable insights on sales trends, regional performance, product categories, and fulfillment methods using Python and Power BI.

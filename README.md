@@ -33,7 +33,7 @@ The following files are used in this project:
 
 - **Python Script:** `Amazon_Sales_Report.ipynb`
 - **Power BI Dashboard:** `amazon_sales_report.pbix`
-- **Project Report:** 'Internship Project Report.docx'
+- **Project Report:** `Internship Project Report.docx`
 
 **Download Python file:** [Google Drive Link](https://drive.google.com/file/d/1XtluQ6Yd1AXqyNiXbeov3f-LLU8k3Kwc/view?usp=drive_link)
 **Download PBIX file:** [Google Drive Link](https://drive.google.com/file/d/1fPanpXgiwaCVfZvBd54haYTAombnpRq8/view?usp=drive_link)

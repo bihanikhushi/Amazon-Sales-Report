@@ -33,4 +33,6 @@ The Amazon Sales Report Dashboard helps businesses and analysts make data-driven
 ```bash
 git clone https://github.com/bihanikhushi/Amazon-Sales-Report.git
 
+PBIX file here:** [Google Drive Link](https://drive.google.com/file/d/1fPanpXgiwaCVfZvBd54haYTAombnpRq8/view?usp=drive_link)
+
 

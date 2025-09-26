@@ -31,7 +31,6 @@ The Amazon Sales Report Dashboard helps businesses and analysts make data-driven
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/amazon-sales-dashboard.git
-cd amazon-sales-dashboard
+git clone (https://github.com/bihanikhushi/Amazon-Sales-Report.git)
 
 

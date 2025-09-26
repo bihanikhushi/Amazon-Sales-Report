@@ -31,10 +31,13 @@ The Amazon Sales Report Dashboard helps businesses and analysts make data-driven
 ## Dataset / Files
 The following files are used in this project:
 
-- **Python Script:** `amazon_sales_analysis.ipynb`
-- **Power BI Dashboard:** `Amazon_Sales_Report.pbix`
-  
+- **Python Script:** `Amazon_Sales_Report.ipynb`
+- **Power BI Dashboard:** `amazon_sales_report.pbix`
+- **Project Report:** 'Internship Project Report.docx'
+
+**Download Python file:** [Google Drive Link](https://drive.google.com/file/d/1XtluQ6Yd1AXqyNiXbeov3f-LLU8k3Kwc/view?usp=drive_link)
 **Download PBIX file:** [Google Drive Link](https://drive.google.com/file/d/1fPanpXgiwaCVfZvBd54haYTAombnpRq8/view?usp=drive_link)
+**Download Project Report File:** [Google Drive Link](https://docs.google.com/document/d/1qrYDnkDMorga7PiUHDjJi0xqU89FYuZN/edit?usp=drive_link&ouid=105421599820275213021&rtpof=true&sd=true)
 
 ---
 

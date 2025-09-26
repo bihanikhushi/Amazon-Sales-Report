@@ -28,11 +28,18 @@ The Amazon Sales Report Dashboard helps businesses and analysts make data-driven
 - **Power BI:** For creating interactive dashboards and visualizations.  
 
 ---
+## Dataset / Files
+The following files are used in this project:
+
+- **Python Script:** `amazon_sales_analysis.ipynb`
+- **Power BI Dashboard:** `Amazon_Sales_Report.pbix`
+  
+**Download PBIX file:** [Google Drive Link](https://drive.google.com/file/d/1fPanpXgiwaCVfZvBd54haYTAombnpRq8/view?usp=drive_link)
+
+---
 
 ### Clone the Repository
 ```bash
 git clone https://github.com/bihanikhushi/Amazon-Sales-Report.git
-
-**PBIX file here:** [Google Drive Link](https://drive.google.com/file/d/1fPanpXgiwaCVfZvBd54haYTAombnpRq8/view?usp=drive_link)
 
 

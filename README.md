@@ -1,5 +1,7 @@
 # Amazon Sales Report
 **Internship Project | Amazon Sales Data Analysis**  
+<img width="192" height="144" alt="images" src="https://github.com/user-attachments/assets/dd3f588d-015d-467c-bac7-9ecb3ce34591" />
+
 
 This project analyzes Amazon sales data to provide actionable insights on sales trends, regional performance, product categories, and fulfillment methods using Python and Power BI.
 
